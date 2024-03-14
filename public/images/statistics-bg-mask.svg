@@ -1,0 +1,36 @@
+<svg width="1109" height="440" viewBox="0 0 1109 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="-70" width="912" height="550" rx="275" fill="url(#paint0_linear_3324_2016)"/>
+<circle cx="865" cy="458" r="244" fill="url(#paint1_linear_3324_2016)"/>
+<mask id="mask0_3324_2016" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="621" y="214" width="488" height="488">
+<circle cx="865" cy="458" r="244" fill="url(#paint2_linear_3324_2016)"/>
+</mask>
+<g mask="url(#mask0_3324_2016)">
+<path d="M1285.35 415.432C1285.35 415.432 1069.22 448.777 1013.67 582.244C960.758 709.306 741.559 738.001 741.559 738.001" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.34 383.842C1285.34 383.842 1046.22 420.17 984.799 567.064C926.358 707.025 683.992 738.001 683.992 738.001" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.35 352.163C1285.35 352.163 1023.24 391.387 956.02 551.882C891.963 704.655 626.344 738 626.344 738" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.35 320.573C1285.35 320.573 1000.33 362.693 927.15 536.701C857.564 702.373 568.691 738 568.691 738" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.35 288.983C1285.35 288.983 977.343 333.999 898.368 521.521C823.166 700.004 511.039 738 511.039 738" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.34 257.306C1285.34 257.306 954.35 305.305 869.495 506.34C788.765 697.635 453.473 738 453.473 738" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.35 225.716C1285.35 225.716 931.45 276.611 840.717 491.16C754.371 695.354 395.824 738 395.824 738" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.35 194.126C1285.35 194.126 908.459 247.917 811.846 476.067C719.972 692.985 338.172 738.001 338.172 738.001" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.34 162.447C1285.34 162.447 885.468 219.222 782.976 460.797C685.574 690.614 280.52 737.999 280.52 737.999" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.34 130.857C1285.34 130.857 862.565 190.527 754.193 445.704C651.175 688.333 222.867 738 222.867 738" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.35 99.2676C1285.35 99.2676 839.576 161.833 725.325 430.524C616.778 685.964 165.305 738 165.305 738" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.35 67.5898C1285.35 67.5898 816.585 133.051 696.543 415.343C582.292 683.595 107.652 738 107.652 738" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1285.34 36C1285.34 36 793.681 104.445 667.672 400.162C547.893 681.313 50 738 50 738" stroke="#FF782C" stroke-width="2" stroke-miterlimit="10"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_3324_2016" x1="952" y1="185" x2="252" y2="185" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F96B1B"/>
+<stop offset="1" stop-color="#FF782C" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_3324_2016" x1="865" y1="214" x2="865" y2="702" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2600E"/>
+<stop offset="1" stop-color="#FF782C"/>
+</linearGradient>
+<linearGradient id="paint2_linear_3324_2016" x1="865" y1="214" x2="865" y2="523" gradientUnits="userSpaceOnUse">
+<stop offset="0.00359322" stop-color="#F2600E"/>
+<stop offset="1" stop-color="#FF782C"/>
+</linearGradient>
+</defs>
+</svg>

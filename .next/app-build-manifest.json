@@ -1,0 +1,27 @@
+{
+  "pages": {
+    "/(routes)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(routes)/page.css",
+      "static/chunks/app/(routes)/page.js"
+    ],
+    "/(routes)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(routes)/layout.css",
+      "static/chunks/app/(routes)/layout.js"
+    ],
+    "/(routes)/careers/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(routes)/careers/page.css",
+      "static/chunks/app/(routes)/careers/page.js"
+    ],
+    "/(routes)/careers/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(routes)/careers/layout.js"
+    ]
+  }
+}
