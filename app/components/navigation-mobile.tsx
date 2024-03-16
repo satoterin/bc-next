@@ -65,8 +65,8 @@ const NavigationMobile = (props: Props) => {
                   >
                     <div>Next.js Development</div>
                     <div>React Development</div>
-                    <div>Migration to headless</div>
-                    <div>Headless eCommerce</div>
+                    <div>DeFi Development</div>
+                    <div>NFTs Marketplace Development</div>
                   </div>
                 )}
               </li>

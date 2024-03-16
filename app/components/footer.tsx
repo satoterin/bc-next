@@ -14,7 +14,7 @@ const Footer = (props: Props) => {
   return (
     <div className=" bg-black/85 px-4 py-12 text-white">
       <div className="mx-auto flex max-w-[1200px] flex-col gap-4">
-        <div className="mb-8">
+        {/* <div className="mb-8">
           <Link href={"/#"}>
             <Image
               src="/svgs/logoWhite.svg"
@@ -23,12 +23,12 @@ const Footer = (props: Props) => {
               height={50}
             />
           </Link>
-        </div>
+        </div> */}
         <div className="grid grid-cols-1  gap-12 pb-12 lg:grid-cols-4">
           <div className="mb-14 flex flex-col gap-8">
             <div>
               <p className="max-w-[220px] text-2xl font-semibold text-[#a0a0a0]">
-                Next.js and React expertise to supercharge your innovation
+                Blockchain - A rediscovery of democracy in the digital world.
               </p>
             </div>
             <JoinButton />
@@ -40,13 +40,13 @@ const Footer = (props: Props) => {
                 <Link href={"/case-studies"}>Our Work</Link>
               </li>
               <li className="hover:text-primary ">
-                <Link href={"/#"}>Next.js Development</Link>
+                <Link href={"/#"}>Website Development</Link>
               </li>
               <li className="hover:text-primary ">
-                <Link href={"/#"}>React Development</Link>
+                <Link href={"/#"}>Smart Contract</Link>
               </li>
               <li className="hover:text-primary ">
-                <Link href={"/#"}>Migration to Headless</Link>
+                <Link href={"/#"}>DeFi Development</Link>
               </li>
               <li className="hover:text-primary ">
                 <Link href={"/#"}>Blog</Link>
@@ -59,16 +59,16 @@ const Footer = (props: Props) => {
           <div className="mb-12 flex flex-col gap-4">
             <h1 className="font-bold md:pb-8 ">Contact</h1>
             <p>
-              Blazity sp. z o.o.
-              <br /> Trzech Krzyży 10/14
-              <br /> 00-535 Warsaw, Poland
+              Blockcharming
+              <br /> 14803 51 Ave NW
+              <br /> Edmonton, AB T6H 5G4, Canada
             </p>
             <p className="font-semibold text-[#a0a0a0]">
               VAT ID: 9512467349 <br />
               KRS: 0000743458
             </p>
             <p>
-              <u className="text-primary">contact@blazity.com</u>
+              <u className="text-primary">hello@blockcharming.com</u>
             </p>
           </div>
           <div>
@@ -93,7 +93,7 @@ const Footer = (props: Props) => {
           </div>
         </div>
         <div className="font-semibold text-[#a0a0a0]">
-          © 2023 Blazity. All rights reserved.
+          © 2024 Blockcharming. All rights reserved.
         </div>
       </div>
     </div>

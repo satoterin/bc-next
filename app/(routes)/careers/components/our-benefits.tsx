@@ -10,7 +10,7 @@ export const benefitsArray = [
     title: "Medicover",
 
     description:
-      "At Blazity, we believe your health is the ultimate frontier, and just like rockets need a solid launchpad to reach the stars, your well-being deserves the best starting point.",
+      "At Blockcharming, we believe your health is the ultimate frontier, and just like rockets need a solid launchpad to reach the stars, your well-being deserves the best starting point.",
   },
   {
     title: "Multisport",
@@ -36,7 +36,7 @@ const OurBenefits = (props: Props) => {
           Our <span className="text-primary">Benefits </span>
         </h1>
         <p className="mx-auto max-w-[800px] pb-8  text-center text-xl text-[#5e5e5d]">
-          At Blazity, we are committed to supporting your overall well-being and
+          At Blockcharming, we are committed to supporting your overall well-being and
           ensuring you have the tools and resources to thrive both personally
           and professionally.
         </p>

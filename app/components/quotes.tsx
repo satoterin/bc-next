@@ -32,7 +32,7 @@ const QuotesArray = [
     name: "Jan Kruś",
     position: "Iberion",
     quote:
-      "Team at Blazity presented an incredible attention to detail. Their response time is definitely something that stands out.",
+      "Team at Blockcharming presented an incredible attention to detail. Their response time is definitely something that stands out.",
     image: "/lights/iberion_Light.avif",
   },
   {

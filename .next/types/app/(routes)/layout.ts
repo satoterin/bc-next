@@ -1,4 +1,4 @@
-// File: E:\clone-blazity\app\(routes)\layout.tsx
+// File: E:\blockcharming\app\(routes)\layout.tsx
 import * as entry from '../../../../app/(routes)/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

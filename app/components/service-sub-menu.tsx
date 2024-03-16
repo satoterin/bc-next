@@ -13,28 +13,28 @@ type Props = {
 const subNavArray = [
   {
     id: 1,
-    title: "Next.js Development",
+    title: "Website Development",
     alt: "code",
     image: "/images/code.avif",
     href: "/#",
   },
   {
     id: 2,
-    title: "React Development",
+    title: "Smart Contract",
     alt: "code",
     image: "/images/code.avif",
     href: "/#",
   },
   {
     id: 3,
-    title: "Migration to Headless",
+    title: "DeFi Development",
     alt: "bulb",
     image: "/images/bulb.avif",
     href: "/#",
   },
   {
     id: 4,
-    title: "Headless eCommerce",
+    title: "NFTs Marketplace",
     alt: "shoping",
     image: "/images/shoping.avif",
     href: "/#",

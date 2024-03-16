@@ -62,7 +62,7 @@ const Navigation = (props: Props) => {
           <li className=" flex h-full items-center ">
             <button
               className="hover:text-primary"
-              onClick={() => setOpen(true)}
+              //onClick={() => setOpen(true)}
             >
               Our Work
             </button>
@@ -71,7 +71,7 @@ const Navigation = (props: Props) => {
           <li className=" flex h-full items-center ">
             <button
               className="hover:text-primary"
-              onClick={() => setOpen(true)}
+              //onClick={() => setOpen(true)}
             >
               Open Source
             </button>
@@ -79,7 +79,7 @@ const Navigation = (props: Props) => {
           <li className=" flex h-full items-center ">
             <button
               className="hover:text-primary"
-              onClick={() => setOpen(true)}
+              //onClick={() => setOpen(true)}
             >
               Blog
             </button>

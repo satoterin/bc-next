@@ -21,7 +21,7 @@ const ContactForm = (props: Props) => {
   } = useForm<ContactSchemaType>({
     resolver: zodResolver(contactSchema),
     defaultValues: {
-      countryCode: "+48",
+      countryCode: "+1",
       name: "",
       email: "",
       phone: "",
@@ -62,7 +62,7 @@ const ContactForm = (props: Props) => {
           <SelectForm
             register={register}
             errors={errors}
-            defaultValue="+48"
+            defaultValue="+1"
             name="countryCode"
             optionsArray={phoneOptionsArray}
             className="w-1/4 min-w-[100px] max-[300px]:w-full"
@@ -153,7 +153,7 @@ const SelectPhone = () => {
     <select
       name="countrycode"
       aria-label="Country phone code"
-      defaultValue="+48"
+      defaultValue="+1"
       className="w-full rounded-md border border-[#ffffff29] bg-[#1f1f1f] px-4 py-4 text-sm placeholder:opacity-50 focus:outline-none"
     >
       {phoneOptionsArray.map((phoneOption) => (

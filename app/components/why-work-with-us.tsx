@@ -16,7 +16,7 @@ const whyWorkWithUsArray = [
     alt: "consulting.avif",
     title: "Consulting approach",
     description:
-      "e understand that communication is key to any successful project. We not only excel at developing high-quality solutions, but we also offer extensive consulting expertise, helping our clients make more informed decisions",
+      "We understand that communication is key to any successful project. We not only excel at developing high-quality solutions, but we also offer extensive consulting expertise, helping our clients make more informed decisions",
   },
   {
     src: "/whywork/speed.avif",

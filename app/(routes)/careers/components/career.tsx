@@ -12,7 +12,7 @@ const Career = (props: Props) => {
           <h1 className="text-5xl font-bold">Career</h1>
           <p className="">
             You must gather your party before venturing forth - so why not join
-            Blazity? Team up with our group of experts to create powerful web
+            Blockcharming? Team up with our group of experts to create powerful web
             experiences.
           </p>
           <p>Fueling Innovation, igniting Careers - join us Now!</p>

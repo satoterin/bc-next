@@ -7,7 +7,7 @@ type Props = {};
 
 const servicesArray = [
   {
-    title: "Next.js Development",
+    title: "Website Development",
     description:
       "Whether it's crafting Next.js web applications, conducting code audits, enterprise software development, or even providing professional training, we're here to help you achieve your business goals!",
     image: "/images/code.avif",
@@ -15,7 +15,7 @@ const servicesArray = [
     href: "/#",
   },
   {
-    title: "React development",
+    title: "Smart Contract",
     description:
       "Whether you need help with developing React web apps, code reviews, enterprise software creation, or just need some specialized training, we're here for you every step of the way!",
     image: "/images/code.avif",
@@ -23,7 +23,7 @@ const servicesArray = [
     href: "/#",
   },
   {
-    title: "Migration to headless",
+    title: "DeFi Development",
     description:
       "We’ll help you migrate from legacy systems and use Jamstack technologies to build custom solutions that offer greater flexibility, customizability, and scalability",
     image: "/images/bulb.avif",
@@ -31,7 +31,7 @@ const servicesArray = [
     href: "/#",
   },
   {
-    title: "Headless eCommerce",
+    title: "NFTs Marketplace Development",
     description:
       "From building Next.js storefronts through headless marketplace development and to building fully customized headless eCommerce platforms, we will help you create exceptional online shopping experiences for your customers.",
     image: "/images/shoping.avif",

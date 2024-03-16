@@ -31,7 +31,7 @@ const PartnerWithUs = (props: Props) => {
               />
               <div className="flex flex-col gap-2">
                 <p className="text-primary font-semibold">Jabkub Czapski</p>
-                <p>Founding Partner at Blazity</p>
+                <p>Founding Partner at Blockcharming</p>
               </div>
             </div>
             <div className="text-xl">

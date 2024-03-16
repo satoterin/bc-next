@@ -19,11 +19,11 @@ const Header = (props: Props) => {
                 priority
                 src="/svgs/logo.svg"
                 alt="Picture of the author"
-                width={120}
-                height={50}
+                width={80}
+                height={80}
               />
             </Link>
-            <span className="max-sm:hidden"> (clone)</span>
+            <span className="max-sm:hidden font-mono text-2xl font-bold text-orange-500">BLOCKCHARMING</span>
           </div>
           <Navigation />
           <ButtonWithArrows

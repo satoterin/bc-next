@@ -7,8 +7,8 @@ import Footer from "../components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Next.js and React development experts | Blazity - clone",
-  description: "This is a clone of Blazity's website",
+  title: "Blockchain development experts | Blockcharming",
+  description: "This is a Blockcharming's official website",
 };
 
 export default function RootLayout({

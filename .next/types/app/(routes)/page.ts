@@ -1,4 +1,4 @@
-// File: E:\clone-blazity\app\(routes)\page.tsx
+// File: E:\blockcharming\app\(routes)\page.tsx
 import * as entry from '../../../../app/(routes)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

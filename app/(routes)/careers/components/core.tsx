@@ -24,7 +24,7 @@ const coreArray = [
     alt: "star",
     title: "We’re Passionate About Our Work",
     description:
-      "We love our profession, core technologies and working with clients. That's why we're all at Blazity :)",
+      "We love our profession, core technologies and working with clients. That's why we're all at Blockcharming :)",
   },
   {
     src: "/whywork/stability.avif",
